@@ -1,11 +1,14 @@
 # Be The Hero
 Mobile - Web - Backend(Web API)
 
-### Backend(Web API) - [x] Status
+### Backend(Web API) 
+- [x] Done
 Using Node - Express - Knex - Sqlite
 
-### Web - [x] Status
+### Web 
+- [x] Done
 Using React
 
-### Mobile - [] Status
+### Mobile 
+- [] Done
 Using React Native
