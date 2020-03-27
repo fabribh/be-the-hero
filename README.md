@@ -5,7 +5,7 @@ Mobile - Web - Backend(Web API)
 - [x] Using Node - Express - Knex - Sqlite
 
 ### Web 
-- [x] Using React
+- [x] Using React - Axon
 
 ### Mobile 
-- [X] Using React Native - Expo
+- [X] Using React Native - Expo - Axon
