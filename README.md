@@ -8,4 +8,4 @@ Mobile - Web - Backend(Web API)
 - [x] Using React
 
 ### Mobile 
-- [] Using React Native
+- [X] Using React Native - Expo
