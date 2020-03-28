@@ -9,3 +9,6 @@ Mobile - Web - Backend(Web API)
 
 ### Mobile 
 - [X] Using React Native - Expo - Axon
+
+### Test
+- [X] Unit Test and Integration Test - Jest
